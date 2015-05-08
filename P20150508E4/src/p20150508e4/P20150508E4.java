@@ -15,7 +15,8 @@ public class P20150508E4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Pruebas preliminares para "InfoUtils.NormalizaEnBytes"
+        //Comentario random by Sergio PG
+		 
         System.out.println(Long.toString(InfoUtils.NormalizaEnBytes("2")));
         System.out.println(Long.toString(InfoUtils.NormalizaEnBytes("2B")));
         System.out.println(Long.toString(InfoUtils.NormalizaEnBytes("2K")));
